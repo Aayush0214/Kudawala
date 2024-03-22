@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613697084151",
+    "project_id": "kudawala-d52d2",
+    "storage_bucket": "kudawala-d52d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613697084151:android:3a08949d91a6afc70e11f2",
+        "android_client_info": {
+          "package_name": "com.project.kudawala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgORyeXbtgi9xk1_k1u8bT28IPsybebI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
